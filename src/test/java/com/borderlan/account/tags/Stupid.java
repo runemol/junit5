@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Tag;
 
 @Target({ ElementType.TYPE, ElementType.METHOD })
 @Retention(RetentionPolicy.RUNTIME)
-@Tag("stupid")
+@Tag("Stupid")
 public @interface Stupid {
 
 }
